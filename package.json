@@ -1,0 +1,20 @@
+{
+  "name": "createowntoken",
+  "version": "1.0.0",
+  "description": "sadfg",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"err\" && exit 1",
+    "start": "node run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "raw-body": "^2.4.1",
+    "crypto-price": "^0.0.6"
+  },
+  "engines": {
+    "node": "12.14.1"
+  }
+}
